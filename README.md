@@ -12,4 +12,4 @@ The goal is to use deep learning to predict PDO occurrences by using Keras and T
 9.	Hit_rate_of_PDO_type_prediction.ipynb: Evaluating the model's ability to predict PDO type
 10.	Heatmap_interpretation.ipynb: Indicating how each predictor's impact on the predictand at each grid point
 11.	Analyzing_SSTA_and_wind_anomalies_corresponds_to_PDO.ipynb: Plotting the SSTA and wind anomalies corresponds to the PDO events.
-12.	environment.yml: The Anaconda environment was used in this paper.
+12.	requirements.txt: The Anaconda environment was used in this paper.
