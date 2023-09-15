@@ -10,7 +10,6 @@ cachetools==5.3.0
 cf-xarray==0.8.1
 chunk==2.0.0
 cmocean==3.0.3
-conda-verify==3.4.2
 datasets==2.13.0
 dill==0.3.6
 eofs==1.4.0
