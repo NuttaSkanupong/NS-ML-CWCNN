@@ -69,7 +69,6 @@ tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 tsmoothie==1.0.4
 webencodings==0.5.1
-Werkzeug==2.3.2
 wget==3.2
 wrapt==1.15.0
 xhistogram==0.3.2
